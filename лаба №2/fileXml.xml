@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<DATA>
+    <users>
+        <email_users>artem@mail.ru</email_users>
+        <name_users>artem</name_users>
+        <adres_users>lipetsk</adres_users>
+        <password_users>123</password_users>
+        <number_phone>8980</number_phone>
+        <role_users>true</role_users>
+    </users>
+    <users>
+        <email_users>ivan@mail.ru</email_users>
+        <name_users>ivan</name_users>
+        <adres_users>lipetsk</adres_users>
+        <password_users>1234</password_users>
+        <number_phone>8904</number_phone>
+        <role_users>0</role_users>
+    </users>
+    <users>
+        <email_users>victor@mail.ru</email_users>
+        <name_users>victor</name_users>
+        <adres_users>lipetsk</adres_users>
+        <password_users>12345</password_users>
+        <number_phone>8900</number_phone>
+        <role_users>0</role_users>
+    </users>
+    <users>
+        <email_users>vadim@mail.ru</email_users>
+        <name_users>vadim</name_users>
+        <adres_users>lipetsk</adres_users>
+        <password_users>123456</password_users>
+        <number_phone>8908</number_phone>
+        <role_users>0</role_users>
+    </users>
+</DATA>
